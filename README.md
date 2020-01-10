@@ -10,3 +10,5 @@ Why not create a standardized dashboard that can help companies predict spend, s
 For this project you will probably have to spend a lot of time learning about how to make sure you keep your data secure. 
 Of course, we recommend first trying to build the modules that focus on uptaking and standardizing the data and displaying it, before you go too deep into security. 
 That’s a rabbit hole you may never escape!
+
+This is a personal development project I have decided to undertake to expand my skillset and improve my Python abilities 
